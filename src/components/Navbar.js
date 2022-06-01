@@ -11,7 +11,7 @@ import Home from './Home';
 import Contact from './Contact';
 import About from './About'
 
-export default class NavbarComp extends Component {
+export default class Top extends Component {
     render() {
         return (
             <Router>
